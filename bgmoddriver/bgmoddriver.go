@@ -1,0 +1,3 @@
+package bgmoddriver
+
+func DriverFunc() {}
