@@ -1,0 +1,6 @@
+github.com/bgentry/bgmodtest v0.0.6 h1:MavUiymYKOKxW07vuzprKhGvqeDX0mGMBN9s1Mu176A=
+github.com/bgentry/bgmodtest v0.0.6/go.mod h1:JxcxHZ26qPnhreo3Jt7CYAXZ+W7IwUUZNszZWgF06Aw=
+github.com/bgentry/bgmodtest/bgmoddriver v0.0.6 h1:82jecZawRCXWL/y+x9yWUIyMwDw42o/CKVTAU7sCgxM=
+github.com/bgentry/bgmodtest/bgmoddriver v0.0.6/go.mod h1:Lej6i3opXWIY2+pZvKYUzGO3pK8vvlEyQcio0sAs+LU=
+github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.6 h1:UFG1IS9kGpkG0twtsJpoBA5UMNwYmmR8LzuoDbqaLP4=
+github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.6/go.mod h1:DASVDpxNXle6QWlMlc6UMZEcWz74xiCLeusrCmdX2pk=
