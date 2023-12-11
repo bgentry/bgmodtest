@@ -1,6 +1,6 @@
-github.com/bgentry/bgmodtest v0.0.6 h1:MavUiymYKOKxW07vuzprKhGvqeDX0mGMBN9s1Mu176A=
-github.com/bgentry/bgmodtest v0.0.6/go.mod h1:JxcxHZ26qPnhreo3Jt7CYAXZ+W7IwUUZNszZWgF06Aw=
-github.com/bgentry/bgmodtest/bgmoddriver v0.0.6 h1:82jecZawRCXWL/y+x9yWUIyMwDw42o/CKVTAU7sCgxM=
-github.com/bgentry/bgmodtest/bgmoddriver v0.0.6/go.mod h1:Lej6i3opXWIY2+pZvKYUzGO3pK8vvlEyQcio0sAs+LU=
-github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.6 h1:UFG1IS9kGpkG0twtsJpoBA5UMNwYmmR8LzuoDbqaLP4=
-github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.6/go.mod h1:DASVDpxNXle6QWlMlc6UMZEcWz74xiCLeusrCmdX2pk=
+github.com/bgentry/bgmodtest v0.0.7 h1:/nCSNzNZgQvQn8KdbS78V12Li5p0HNmf80H5urWKY+8=
+github.com/bgentry/bgmodtest v0.0.7/go.mod h1:fHR0O2V/nSupa1VCP8r0hQxXGIUshMVLqkKJEeCdzzQ=
+github.com/bgentry/bgmodtest/bgmoddriver v0.0.7 h1:YC8KLHK/Fz8HVcfntHT5Ib6g5ZxaCNu1uv3I9JauPi4=
+github.com/bgentry/bgmodtest/bgmoddriver v0.0.7/go.mod h1:Lej6i3opXWIY2+pZvKYUzGO3pK8vvlEyQcio0sAs+LU=
+github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.7 h1:kI8xQcz5yvZgLSnXHGwcH9BFvbVe0VkDn5eN4lyl+9U=
+github.com/bgentry/bgmodtest/bgmoddriver/bgmodpgxv5 v0.0.7/go.mod h1:KAdoa/t6toO5J0kfKTFEozYrlU/T8CCAbNANEUf/TEs=
