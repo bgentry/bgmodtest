@@ -1,7 +1,7 @@
 package main
 
-import "github.com/bgentry/gomodtest"
+import "github.com/bgentry/bgmodtest"
 
 func main() {
-	gomodtest.KoanFunc()
+	bgmodtest.KoanFunc()
 }
